@@ -23,7 +23,7 @@ export const IMAGE_PATHS = {
 
   // Digital Design Section
   DESIGN_CREATIVE_SPACE:
-    "https://youtu.be/jYRWGcfi2m4",
+    "https://www.youtube.com/embed/jYRWGcfi2m4",
 } as const;
 
 // Subject configuration with standardized naming
